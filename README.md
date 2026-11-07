@@ -33,10 +33,10 @@ to the almatong exchange project with the university of
 Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 ## Education
-- **PhD (Dr.rer.nat)** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-May.2026]
-- **MSc in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
+- **PhD (Dr.rer.nat)** @ TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-May.2026]
+- **MSc in systems & control** @ Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
 - **BSc in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
-- **BSc automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
+- **BSc automation engineering** @ university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 
 ## Memberships
