@@ -1,7 +1,7 @@
 # Research projects
 ## Papers and preprints
 - *Data-driven optimal approximation on Hardy spaces in simply connected domains*, Alessandro Borghi and Tobias Breiten, Advances in Computational Mathematics 51 (6), 59 (2025), [doi: 10.1007/s10444-025-10275-3](https://doi.org/10.1007/s10444-025-10275-3). See [here](https://github.com/aaborghi/dd-H2-simplyconnected) for the code.
-- *Balanced truncation with conformal maps*, Alessandro Borghi, Tobias Breiten and Serkan Gugercin, Systems & Control Letters 197, 106044, [Arxiv](https://arxiv.org/abs/2405.15656). See [here](https://github.com/aaborghi/conformalBT) for the code.
+- *Balanced truncation with conformal maps*, Alessandro Borghi, Tobias Breiten and Serkan Gugercin, Systems & Control Letters 197, 106044, [doi: 10.1016/j.sysconle.2025.106044](https://doi.org/10.1016/j.sysconle.2025.106044) [Arxiv](https://arxiv.org/abs/2405.15656). See [here](https://github.com/aaborghi/conformalBT) for the code.
 - *Generalizing the optimal interpolation points for IRKA*, Alessandro Borghi and Tobias Breiten, MATHMOD Short Contribution Volume 2025 : 11th Vienna International Conference on Mathematical Modelling, [doi: 10.34726/8999](https://doi.org/10.34726/8999).
 - *H2 optimal rational approximation on general domains*, Alessandro Borghi and Tobias Breiten, Adv Comput Math 50, 28 (2024). [doi 10.1007/s10444-024-10125-8](https://doi.org/10.1007/s10444-024-10125-8). <br/>
 [ArXiv](https://arxiv.org/abs/2305.01511) and [code](https://github.com/aaborghi/H2-arbitrary-domains) are also publicly available.
