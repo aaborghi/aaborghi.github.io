@@ -25,7 +25,7 @@ My research had connections with _systems & control theory_, _model order reduct
 ## Professional experience
 - **Advanced development engineer** <br/>([Thales](https://www.thalesgroup.com/en/worldwide/netherlands), Delft, The Netherlands) <br/>[Sep.2026-Present]
 - **Business development associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
-- **Internship project (r&d)** <br/> The project consisted
+- **Internship project (R&D)** <br/> The project consisted
 in the design of an active vibration compensation (for residual vibrations)
 process using the input shaping technique implemented with TwinCAT. <br/>(Beckhoff automation Co., Ltd., Shanghai, China) <br/>[Mar.2019-Jul.2019]
 - **Exchange student** ([almatong project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme)) <br/> Studied one year systems and control subjects at Tongji university, thanks
