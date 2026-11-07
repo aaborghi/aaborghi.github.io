@@ -23,7 +23,7 @@ My research had connections with _systems & control theory_, _model order reduct
 
 
 ## Professional experience
-- **Advanced development engineer** <br/>([Thales](https://www.thalesgroup.com/en/worldwide/netherlands), Delft, The Netherlands) <br/>[Sept.2026-Present]
+- **Advanced development engineer** <br/>([Thales](https://www.thalesgroup.com/en/worldwide/netherlands), Delft, The Netherlands) <br/>[Sep.2026-Present]
 - **Business development associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
 - **Internship project (r&d)** <br/> The project consisted
 in the design of an active vibration compensation (for residual vibrations)
@@ -33,7 +33,7 @@ to the almatong exchange project with the university of
 Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
 
 ## Education
-- **PhD student** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **PhD student** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-May.2026]
 - **MSc in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
 - **BSc in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
 - **BSc automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
