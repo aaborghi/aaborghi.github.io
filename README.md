@@ -12,20 +12,18 @@
 <!-- $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br /> -->
 
 # About me
-I am a [PhD student](https://www.tu.berlin/en/fgmso/alessandro-borghi) in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). My position is given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
-The topic of my project deals with the development of cool algorithms for making hard models computationally accessible.
-My research has connections with _systems & control theory_, _model order reduction_, _numerical linear algebra_, and _approximation theory_. 
+I am an *advanced development engineer* @Thales_Nederland.
+
+I hold a [*PhD in applied mathematics*](https://www.tu.berlin/en/fgmso/alessandro-borghi) from TU Berlin, where I worked in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). The position was given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
+The topic of my project dealt with the development of cool algorithms for making hard models computationally accessible.
+My research had connections with _systems & control theory_, _model order reduction_, _numerical linear algebra_, and _approximation theory_. 
 
 <!--My research focuses on the design and implementation of algorithms for solving nonlinar eigenvalue problems. In particular I am interested on the identification of _exceptional points_. -->
 
 
-## Education
-- **PhD student** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
-- **MSc in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
-- **BSc in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
-- **BSc automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
 
 ## Professional experience
+- **Advanced development engineer** <br/>  <br/>([Thales](https://www.thalesgroup.com/en/worldwide/netherlands), Delft, The Netherlands) <br/>[Sept.2026-Present]
 - **Business development associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
 - **Internship project (r&d)** <br/> The project consisted
 in the design of an active vibration compensation (for residual vibrations)
@@ -33,6 +31,13 @@ process using the input shaping technique implemented with TwinCAT. <br/>(Beckho
 - **Exchange student** ([almatong project](https://corsi.unibo.it/2cycle/AutomationEngineering/opportunities-multiple-degree-programme)) <br/> Studied one year systems and control subjects at Tongji university, thanks
 to the almatong exchange project with the university of
 Bologna in order to receive a double BSc degree in automation engineering. <br/>(Tongji university, Shanghai, China) <br/>[Sep. 2016 – Jul. 2017] 
+
+## Education
+- **PhD student** at TU Berlin / Institut für Mathematik, [member of daedalus](https://daedalus.berlin/people/alessandro-borghi) <br/>(Berlin, Germany) <br/>[Oct.2021-Present]
+- **MSc in systems & control** at Delft university of technology / 3mE department / DCSC <br/>(Delft, Netherlands) <br/>[Sep.2019-Oct.2021]
+- **BSc in automation engineering** for double bachelor program with Tongji university <br/>(Shanghai, China) <br/>[Sep. 2016-Jul.2019]
+- **BSc automation engineering** at university of Bologna <br/>(Bologna, Italy) <br/>[Sep. 2015-Dec.2018]
+
 
 ## Memberships
 - mentee @ [LeadTheFuture](https://www.leadthefuture.tech/)
