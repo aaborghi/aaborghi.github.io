@@ -12,9 +12,9 @@
 <!-- $$A^{-1}= $$ ```np.linalg.solve(A,I)```<br /> -->
 
 # About me
-I am an *advanced development engineer* @Thales_Nederland.
+I am an **advanced development engineer** @Thales_Nederland.
 
-I hold a [*PhD in applied mathematics*](https://www.tu.berlin/en/fgmso/alessandro-borghi) from TU Berlin, where I worked in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). The position was given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
+I hold a [**PhD in applied mathematics**](https://www.tu.berlin/en/fgmso/alessandro-borghi) from TU Berlin, where I worked in the group [FG Modellierung, Simulation und Optimierung realer Prozesse](https://www.tu.berlin/en/fgmso) of [Prof. Dr. Tobias Breiten](https://www.tu.berlin/en/fgmso/tobias-breiten). The position was given by the DFG as part of the [daedalus](https://daedalus.berlin/) group. 
 The topic of my project dealt with the development of cool algorithms for making hard models computationally accessible.
 My research had connections with _systems & control theory_, _model order reduction_, _numerical linear algebra_, and _approximation theory_. 
 
