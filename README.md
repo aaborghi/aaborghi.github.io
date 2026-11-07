@@ -23,7 +23,7 @@ My research had connections with _systems & control theory_, _model order reduct
 
 
 ## Professional experience
-- **Advanced development engineer** <br/>  <br/>([Thales](https://www.thalesgroup.com/en/worldwide/netherlands), Delft, The Netherlands) <br/>[Sept.2026-Present]
+- **Advanced development engineer** <br/>([Thales](https://www.thalesgroup.com/en/worldwide/netherlands), Delft, The Netherlands) <br/>[Sept.2026-Present]
 - **Business development associate** <br/> Worked as a business advisor for the company Visevi Robotics. <br/>([sparksense](https://sparksense.co/), Zurich, Switzerland) <br/>[Oct.2020-Mar.2021]
 - **Internship project (r&d)** <br/> The project consisted
 in the design of an active vibration compensation (for residual vibrations)
